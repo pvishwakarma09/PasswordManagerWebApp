@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="logo font-bold text-white text-2xl">
                 <span className='text-orange-600'> &lt;</span>
 
-                <span>Pass</span><span className='text-orange-600'>OP/&gt;</span>
+                <span>Pass</span><span className='text-orange-600'>MG/&gt;</span>
 
 
             </div>
