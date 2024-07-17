@@ -15,7 +15,7 @@ const Manager = () => {
     let passwords = localStorage.getItem("passwords");
     if (passwords) {
       setPasswordArray(JSON.parse(passwords));
-    }r
+    }
   }, []);
 
   const copyText = (text) => {
