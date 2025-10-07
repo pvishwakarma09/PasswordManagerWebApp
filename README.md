@@ -1,4 +1,5 @@
-Your personal vault — store, protect, and access your passwords anytime.
+-> Your personal vault — store, protect, and access your passwords anytime.
+-> Unlike Chrome’s password manager, PassMG gives you full control — your data, your vault.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
